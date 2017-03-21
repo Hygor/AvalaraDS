@@ -7,7 +7,7 @@
 
 #### &nbsp;
 
-[GitHub](https://github.com/hygorbudny/AvalaraDS/)
+[GitHub](https://github.com/Hygor/AvalaraDS/)
 [Get Started](#AvalaraDS)
 
 <!-- background image -->
