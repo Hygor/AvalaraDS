@@ -1,2 +1,0 @@
-# AvalaraDS
-Avalara Design System
