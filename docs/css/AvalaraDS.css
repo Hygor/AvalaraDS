@@ -1,0 +1,29 @@
+/* 
+    AvalaraDS ( README FILE )
+    ---
+    change only the essential styles to make it right.
+*/
+
+body {
+    font-family: "Apertura", Helvetica, Arial, Sans-Serif;
+    color: #5f6062;
+}
+
+
+
+/* cover-page button */
+section.cover .cover-main>p:last-child a {
+    border-radius: 3px;
+    letter-spacing: 0;
+    font-weight: 900;
+}
+section.cover .cover-main>p:last-child a:hover {
+    box-shadow: 0 0 2px var(--theme-color,#42b983);
+}
+section.cover .cover-main>p:last-child a:first-child:hover {
+    color: var(--theme-color,#42b983);
+    font-weight: bold;
+}
+section.cover .cover-main>p:last-child a:last-child:hover {
+    color: white;
+}
